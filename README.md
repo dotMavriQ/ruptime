@@ -13,7 +13,7 @@ This is a Bash script that allows you to set a timer from a given moment and sto
 
 * Open a terminal and navigate to the directory where the ruptime.sh file is located.
 
-* Make the ruptime.sh file executable using the following command:
+**Make the ruptime.sh file executable using the following command:**
 
 `bash`
 
@@ -24,7 +24,7 @@ chmod +x ruptime.sh
 
 **Run the ruptime.sh script using the following command:**
 
-bash
+`bash`
 
 `./ruptime.sh`
 
