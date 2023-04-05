@@ -17,7 +17,9 @@ This is a Bash script that allows you to set a timer from a given moment and sto
 
 `bash`
 `
-`chmod +x ruptime.sh`
+```
+chmod +x ruptime.sh
+`
 
 **Run the ruptime.sh script using the following command:**
 
