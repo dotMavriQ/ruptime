@@ -1,5 +1,7 @@
 # Ruptime Script
 
+###### Receptive Uptime - A Bash-script to measure the time from a request to when you recieve a notification in dunst. 
+
 This is a Bash script that allows you to set a timer from a given moment and stops the timer when a certain text is read from the Dunst program.
 
 ## Prerequisites
